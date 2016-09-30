@@ -1,0 +1,55 @@
+#gameBoard {
+    
+    width: 330px;
+    margin: 40px auto 0 auto;
+}
+
+.row {
+    
+    
+
+}
+
+.square {
+    float: left;
+    width: 120px;
+    height: 84px;
+    cursor: pointer;
+    text-align: center;
+    font-size: 50px;
+    padding-top: 35px;
+}
+
+.bottom {
+    border-bottom: 1px solid black;
+
+}
+
+.right {
+    border-right: 1px solid black;
+
+}
+
+.ex {
+    background-color: red;
+}
+
+.oh {
+    background-color: green;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h2 {
+    color: blue;
+}
