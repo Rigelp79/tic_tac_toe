@@ -1,23 +1,16 @@
 #gameBoard {
     
-    width: 330px;
-    margin: 40px auto 0 auto;
-}
-
-.row {
-    
-    
-
+    width: 660px;
+    margin: 80px auto 0 auto;
 }
 
 .square {
     float: left;
-    width: 120px;
-    height: 84px;
+    width: 150px;
+    height: 150px;
     cursor: pointer;
     text-align: center;
-    font-size: 50px;
-    padding-top: 35px;
+    padding-top: 70px;
 }
 
 .bottom {
@@ -31,11 +24,14 @@
 }
 
 .ex {
-    background-color: red;
+    background-image: url(https://maxcdn.icons8.com/wp-content/uploads/2014/10/multiply.png);
 }
 
 .oh {
-    background-color: green;
+    background-image: url(http://cdn1.bigcommerce.com/server5200/y2p3cff/products/14097/images/70924/55-470-3254_XL__80083__46243.1383332788.120.120.jpg?c=2);
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 
